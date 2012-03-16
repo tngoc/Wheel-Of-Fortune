@@ -1,7 +1,7 @@
 ﻿
 #include "Quiz.h"
 
-//test githubfdsfdsfds
+//xoa di
 
 Quiz::Quiz() : Sprite() {
 	question = "";
