@@ -1,8 +1,6 @@
 ﻿
 #include "Quiz.h"
 
-//xoa di
-
 Quiz::Quiz() : Sprite() {
 	question = "";
 	answer = "";
